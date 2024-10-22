@@ -11,4 +11,4 @@ RUN rembg d
 
 EXPOSE 7000
 ENTRYPOINT ["rembg"]
-CMD ["--help"]
+CMD ["s"]
